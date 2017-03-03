@@ -1,0 +1,49 @@
+#conternner{
+    background-color: #eee;
+    padding: 20px;
+    position: relative;
+}
+
+#team{
+    width: 160px;
+    background-color: white;
+    padding: 20px;
+    position: absolute;
+    left: 20px;
+
+}
+#me{
+    background-color: white;
+    margin: 0 142px auto 222px;
+
+}
+#pe{
+        width: 120px;
+        background-color: white;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+}
+
+
+
+
+#logo{
+    width: 80px;
+    height: 80px;
+    background-color: #eee;
+}
+body{
+    padding: 20px;
+    border: 1px solid #999;
+}
+div.boder{
+    border: 1px solid #999;
+}
+
+.per{
+    background-color: #eee;
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
