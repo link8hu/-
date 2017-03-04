@@ -1,0 +1,27 @@
+#main{
+    width: 400px;
+    height: 200px;
+    background-color: #ccc;
+    position: relative;
+    left: 50%;
+    margin-left: -200px;
+    top: 50%;
+    margin-top: -100px;
+}
+#top,#bottom{
+    background-color: #fc0;
+    width: 50px;
+    height: 50px;
+}
+#top{
+    border-bottom-right-radius: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#bottom{
+    border-top-left-radius: 50px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
